@@ -14,4 +14,4 @@ Este proyecto implementa una **API REST** para la gestión de carros, que permit
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/usuario/proyecto-api-rest-carro.git
+   git clone https://github.com/carosnow1/rest-carro-m10.git
